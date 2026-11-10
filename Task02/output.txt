@@ -1,0 +1,5 @@
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+Copies: by-value=1 by-const-reference=0
+copy 10 items: 0 us
+copy 1000 items: 24 us
+copy 100000 items: 14745 us
