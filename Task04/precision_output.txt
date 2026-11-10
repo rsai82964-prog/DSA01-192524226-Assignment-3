@@ -1,0 +1,3 @@
+double rupees=100000.00000133288
+integer rupees=100000
+difference=1.3328826753422618e-06
