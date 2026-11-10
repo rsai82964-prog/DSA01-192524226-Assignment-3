@@ -1,0 +1,8 @@
+Construct 2x3
+Construct 1x2
+Destroy 1x2 booked=1
+Construct 2x2
+Destroy 2x2 booked=1
+Approx bool-map bytes for 10x20, 100x200, 1000x2000: 200, 20000, 2000000 (plus row pointers/allocator overhead)
+Destroy 0x5 booked=0
+Destroy 2x3 booked=1
