@@ -1,0 +1,4 @@
+Series Z = 10 + j0 ohm; |Z|=10
+Parallel Z = 5 + j5 ohm; |Z|=7.07107
+std::complex check = 5 + j5
+Safe error: division by zero impedance
