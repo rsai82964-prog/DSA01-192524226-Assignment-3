@@ -1,8 +1,8 @@
-# DSA01-RegisterNumber-Assignment3
+# DSA01-192524226-Assignment3
 
 ## Student details
-- **Name:** [Enter your full name]
-- **Register number:** [Enter your register number]
+- **Name:** [P Rahul Sai]
+- **Register number:** [192524226]
 - **Course outcome:** CO3 – Constructors, destructors and operator overloading
 - **Compiler used for this preparation:** GNU g++ 14.2.0 (Linux x86_64)
 - **Language standard:** C++17
