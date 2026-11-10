@@ -1,0 +1,2 @@
+Predicted output before execution:
+5 7 7
