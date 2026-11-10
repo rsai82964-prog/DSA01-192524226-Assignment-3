@@ -1,0 +1,4 @@
+Untitled | copies=0
+The Alchemist | copies=1
+C++ Primer | copies=4
+Rejected: copies cannot be negative
