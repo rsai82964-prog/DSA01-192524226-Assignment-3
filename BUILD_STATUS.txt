@@ -1,0 +1,6 @@
+GNU g++ 14.2.0 | C++17 | Linux x86_64
+Primary main.cpp programs: Task01 through Task07 compiled and executed successfully.
+Q3 Logger prediction program compiled and executed; predicted output matches actual output.
+Q5 Counter prediction program compiled and executed; predicted output matches actual output.
+Intentional negative tests: Task01 no_default compile failure; Task01 reorder warning; Task02 shallow-copy sanitizer failure; Task03 leak sanitizer report.
+See each task folder for exact compiler commands, logs and output.
