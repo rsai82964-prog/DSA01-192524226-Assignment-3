@@ -1,0 +1,6 @@
+$ g++ -std=c++17 -Wall -Wextra -O0 benchmark.cpp -o bench && ./bench
+prefix_us=17807 postfix_us=26140 sink=20000000
+
+$ g++ -std=c++17 -Wall -Wextra -O2 benchmark.cpp -o bench && ./bench
+prefix_us=0 postfix_us=0 sink=20000000
+

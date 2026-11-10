@@ -1,0 +1,3 @@
+$ g++ -std=c++17 -O2 -Wall -Wextra concat_benchmark.cpp -o concat_benchmark && ./concat_benchmark
+custom Text +: 5447 us, chars=200000
+std::string +: 1717 us, chars=200000

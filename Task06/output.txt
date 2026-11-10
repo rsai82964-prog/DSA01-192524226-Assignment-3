@@ -1,0 +1,4 @@
+Hello Metro
+true true
+Hello 
+Copy-constructor calls: 0

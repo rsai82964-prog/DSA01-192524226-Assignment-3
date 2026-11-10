@@ -1,0 +1,1 @@
+std::string append 100000 chars: 553 us; size=100000
